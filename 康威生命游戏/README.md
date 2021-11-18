@@ -7,3 +7,5 @@
 - [MDN requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 - [Caniuse 兼容性检测](https://caniuse.com/)
 # Cellular-Automata
+-- npm install 
+-- npm run start
